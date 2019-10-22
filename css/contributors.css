@@ -1,5 +1,5 @@
 .contributor-btn button{
-    width: 8rem;
+    width: 9rem;
     color: #fff;
     background-color: unset;
     background: linear-gradient(#152347, #5b1965);
@@ -13,10 +13,10 @@
 .contributor-btn button.selected,
 .contributor-btn button:hover,
 .contributor-btn button:active {
-    color: #5b1965;
+    color: red;
     border: 1px solid #f8f9fa;
     background: unset;
-    background-color: #f8f9fa;
+    background-color: blue;
 }
 
 .contributors-pagination{
